@@ -27,6 +27,7 @@ pip install -r requirements.txt
 * Alternativ können auch Webdriver des Chromes oder IE genutzt werden. Ich habe persönlich die besten Erfahrungen mit dem Edge WD gemacht (entsprechend im Script nggame_2019.py den Webdriver anpassen).
 ## Usage
 ### Einmalige Ausführung
+* credentials.json (GMAIL Api Auth) und WebDriver in den Projektordner platzieren.
 * Im gmail_nrg_code.py gibt es eine Stelle (mit Uncomment markiert). Diesen Block einkommentieren.
 * An letzter Stelle im Code die function einkommentieren und das Script ausführen.
 * Die id des Labels kopieren und an folgender Codestelle einfügen:
