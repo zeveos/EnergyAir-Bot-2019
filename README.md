@@ -23,7 +23,7 @@ pip install -r requirements.txt
 * Falls du kein Android besitzt, kannst du auch ein entsprechendes App aus dem Appstore nutzen, welche SMS auf Mail umleitet. Die Regex um den Code im String zu finden muss dann entsprechend im gmail_nrg_code.py Script angepasst werden.
 
 ### Sonstige Downloads (REQUIRED)
-* Download des [Edge Webdrivers] in der entsprechenden Version für deinen Browser.
+* Download des [Edge Webdrivers](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) in der entsprechenden Version für deinen Browser.
 * Alternativ können auch Webdriver des Chromes oder IE genutzt werden. Ich habe persönlich die besten Erfahrungen mit dem Edge WD gemacht (entsprechend im Script nggame_2019.py den Webdriver anpassen).
 ## Usage
 ### Einmalige Ausführung
