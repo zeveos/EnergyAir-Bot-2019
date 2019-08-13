@@ -1,6 +1,6 @@
 # EnergyAir-Bot-2019
-Dieses Script ermöglicht das automatisierte Spielen des Energy Air Games. Nach erfolgreicher Implementation wird der SMS Code automatisiert, nach Ablauf der Session, eingelesen.
-Das Script ist in Python3 geschrieben.
+Dieses Script ermöglicht das automatisierte Spielen des Energy Air Games. Nach erfolgreicher Implementation wird der SMS Code automatisiert nach Ablauf der Session eingelesen.
+Das Script ist in Python3 geschrieben und benötigt ein Android App um die SMS umleiten zu können.
 ## Configuration
 [Download Python](https://www.python.org/downloads/windows/)
 ```
