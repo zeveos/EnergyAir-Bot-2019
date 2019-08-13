@@ -14,7 +14,7 @@ pip install -r requirements.txt
   * Unter Einstellungen (oben rechts), gehe zu "Filter & blockierte Adressen "Neuen Filter erstellen".
   * Als Betreff: *Forward SMS message from number [+41DEINETELLNR] (sender - Energy (No contact specified))*
   * Enthält die Wörter: *Dein Code für game.energy.ch*
-  * Filter erstellen.
+  * Filter erstellen und auf das neu erstellte Label anwenden.
 ### APP Herunterladen PlayStore
 * App Herunterladen [SMS to mail/phone -auto redirect](https://play.google.com/store/apps/details?id=com.gawk.smsforwarder)
 * Die App so konfigurieren, dass die SMS an dein vorher konfiguriertes Gmail weitergeleitet wird.
