@@ -4,10 +4,11 @@ Das Script ist in Python3 geschrieben und benötigt ein Android App um die SMS u
 ## Configuration
 [Download Python](https://www.python.org/downloads/windows/)
 ```
-python3 -m venv /path/to/new/Energy-Bot/folder
+python -m venv /path/to/new/Energy-Bot/folder
 venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
+
 ### Gmail Account needed
   * Klicke auf [Enable The GMAIL API](https://developers.google.com/gmail/api/quickstart/python) und "Download Client Config"
   * In der Gmail Inbox [mail.google.com](https://mail.google.com/) kreiere ein neues "Label".
