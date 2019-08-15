@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Usage
 ### Einmalige Ausführung
 * credentials.json (GMAIL Api Auth) und WebDriver in den Projektordner platzieren.
-* Im gmail_nrg_code.py gibt es eine Stelle (mit Uncomment markiert). Diesen Block einkommentieren.
+* Im gmail_nrg_code.py gibt es eine Stelle (mit Uncomment markiert). Diesen Block einkommentieren (Achtung: Nach dem "#" ist noch ein Leerzeichen, dieses jeweils auch löschen).
 * An letzter Stelle im Code die function einkommentieren und das Script ausführen.
 * Die id des Labels kopieren und an folgender Codestelle einfügen:
 * ```results = service.users().messages().list(userId='me', labelIds=['UNREAD', 'Label_5591763986028835289'],```
