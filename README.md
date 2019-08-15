@@ -36,4 +36,4 @@ pip install -r requirements.txt
 * code wieder auskommentieren.
 
 ### Ausführen
- ```python3 nrggame_2019.py```
+ ```python nrggame_2019.py```
