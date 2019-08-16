@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from selenium import webdriver
 import time
 import gmail_nrg_code as nrg_code
