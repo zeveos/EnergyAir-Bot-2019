@@ -3,7 +3,7 @@ Dieses Script ermöglicht das automatisierte Spielen des Energy Air Games. Nach 
 Das Script ist in Python3 geschrieben und benötigt ein Android App um die SMS umleiten zu können.
 ## Configuration
 [Download Python 3.7.4](https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe)\
-Nach dem herunterladen der Datei, diese ausführen. Während der Installation gilt es zu beachten, dass der Hacken unter "Add Python 3.7 to PATH" gesetzt ist.\
+Nach dem herunterladen der Datei, diese ausführen. Während der Installation gilt es zu beachten, dass der Haken unter "Add Python 3.7 to PATH" gesetzt ist.\
 Nun CMD öffnen und in den Ordner EnergyAir-Bot-2019 navigieren:
 ```
 cd \path\to\your\folder\EnergyAir-Bot-2019
@@ -12,6 +12,10 @@ Dort muss virtualenv installiert werden:
 ```
 pip3 install virtualenv
 virtualenv venv
+```
+oder:
+```
+python -m .\venv
 ```
 Anschliessend:
 ```
