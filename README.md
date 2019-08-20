@@ -35,7 +35,8 @@ pip install -r requirements.txt
 * Die App so konfigurieren, dass die SMS an dein vorher konfiguriertes Gmail weitergeleitet wird.
 * Achtung: Die App muss im Hintergrund offen bleiben, demnach das App nicht aus den "offenen Apps" löschen. Evtl. Energieplan auf dem Handy anpassen.
 ### App Iphone (optional)
-* Falls du kein Android besitzt, kannst du auch ein entsprechendes App aus dem Appstore nutzen, welche SMS auf Mail umleitet. Die Regex um den Code im String zu finden muss dann entsprechend im gmail_nrg_code.py Script angepasst werden.
+* Falls du kein Android besitzt, kannst du auch ein entsprechendes App aus dem Appstore nutzen, welche SMS auf Mail umleitet. Die Regex um den Code im String zu finden muss dann entsprechend im gmail_nrg_code.py Script angepasst werden.\
+Mögliche App: [mysms mirror: SMS Weiterleiten](https://apps.apple.com/ch/app/mysms-mirror-sms-weiterleiten/id681057282)
 
 ### Sonstige Downloads (REQUIRED)
 * Download des [Edge Webdrivers](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) in der entsprechenden Version für deinen Browser.\
